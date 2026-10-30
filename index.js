@@ -11,3 +11,4 @@ app.listen(PORT, error => {
         console.log(`Server je pokrenut na http://localhost:${PORT}`);
     }
 });
+
